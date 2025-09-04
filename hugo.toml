@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.rahulkonduru.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Rahul Konduru Blog'
 theme = 'loveit'
 [caches]
   [caches.images]
