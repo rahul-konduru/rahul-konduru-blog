@@ -1,9 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>My New Hugo Site</title>
+        <title>Rahul Konduru Blog</title>
         <link>http://localhost:1313/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 04 Sep 2025 00:25:32 -0500</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Welcome</title>
+    <link>http://localhost:1313/posts/welcome/</link>
+    <pubDate>Thu, 04 Sep 2025 00:25:32 -0500</pubDate>
+    <author>xxxx</author>
+    <guid>http://localhost:1313/posts/welcome/</guid>
+    <description><![CDATA[<p>Welcome to my tech blog</p>]]></description>
+</item>
+</channel>
 </rss>
