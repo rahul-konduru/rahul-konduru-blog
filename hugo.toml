@@ -5,3 +5,5 @@ theme = 'loveit'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[author]
+    name = "Rahul Konduru"
