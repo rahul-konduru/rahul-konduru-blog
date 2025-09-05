@@ -1,6 +1,5 @@
 +++
 date = '2025-09-04T15:06:01-05:00'
-draft = true
 title = 'Writing a Custom Kafka Health Indicator in Spring Boot'
 tags = ["Spring Boot", "Kafka", "Actuator", "Health Check", "Kubernetes"]
 summary = "Learn how to create a custom Kafka health indicator in Spring Boot to improve microservice resilience. Enhance Kubernetes monitoring by verifying both Kafka producer and consumer functionality for accurate health checks."
