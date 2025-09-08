@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Actuator on Rahul Konduru Blog</title>
-    <link>http://localhost:1313/tags/actuator/</link>
-    <description>Recent content in Actuator on Rahul Konduru Blog</description>
+    <title>Actuator on Rahul Konduru&#39;s Blog</title>
+    <link>https://blog.rahulkonduru.com/tags/actuator/</link>
+    <description>Recent content in Actuator on Rahul Konduru&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Sep 2025 15:06:01 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/actuator/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.rahulkonduru.com/tags/actuator/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing a Custom Kafka Health Indicator in Spring Boot</title>
-      <link>http://localhost:1313/posts/custom-kafka-health-indicator-spring-boot/</link>
+      <link>https://blog.rahulkonduru.com/posts/custom-kafka-health-indicator-spring-boot/</link>
       <pubDate>Thu, 04 Sep 2025 15:06:01 -0500</pubDate>
-      <guid>http://localhost:1313/posts/custom-kafka-health-indicator-spring-boot/</guid>
+      <guid>https://blog.rahulkonduru.com/posts/custom-kafka-health-indicator-spring-boot/</guid>
       <description>Learn how to create a custom Kafka health indicator in Spring Boot to improve microservice resilience. Enhance Kubernetes monitoring by verifying both Kafka producer and consumer functionality for accurate health checks.</description>
     </item>
   </channel>

@@ -2,13 +2,13 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/tags/actuator/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/health-check/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/kafka/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/kubernetes/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/spring-boot/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/posts/custom-kafka-health-indicator-spring-boot/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod></url><url>
-            <loc>http://localhost:1313/categories/</loc></url></urlset>
+            <loc>https://blog.rahulkonduru.com/posts/</loc><lastmod>2025-09-08T16:08:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.rahulkonduru.com/</loc><lastmod>2025-09-08T16:08:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.rahulkonduru.com/tags/actuator/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.rahulkonduru.com/tags/health-check/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.rahulkonduru.com/tags/kafka/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.rahulkonduru.com/tags/kubernetes/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.rahulkonduru.com/tags/spring-boot/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.rahulkonduru.com/tags/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.rahulkonduru.com/posts/custom-kafka-health-indicator-spring-boot/</loc><lastmod>2025-09-04T15:06:01-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://blog.rahulkonduru.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
