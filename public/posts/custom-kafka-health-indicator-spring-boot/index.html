@@ -36,7 +36,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/blog.rahulkonduru.com\/posts\/custom-kafka-health-indicator-spring-boot\/"
-        },"genre": "posts","keywords": "Spring Boot, Kafka, Actuator, Health Check, Kubernetes","wordcount":  784 ,
+        },"genre": "posts","keywords": "Spring Boot, Kafka, Actuator, Health Check, Kubernetes","wordcount":  793 ,
         "url": "https:\/\/blog.rahulkonduru.com\/posts\/custom-kafka-health-indicator-spring-boot\/","datePublished": "2025-09-04T15:06:01-05:00","dateModified": "2025-09-04T15:06:01-05:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -78,7 +78,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Writing a Custom Kafka Health Indicator in Spring Boot</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://blog.rahulkonduru.com" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Rahul Konduru</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2025-09-04">2025-09-04</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;784 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="2025-09-04">2025-09-04</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;793 words&nbsp;
                 <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;4 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  data-kept="">
                 <div class="details-summary toc-title">
@@ -226,6 +226,8 @@ Spring automatically generates the indicator name by removing <code>HealthIndica
 <p>Spring Boot’s extensibility lets us go beyond the built-in health checks and create <strong>Kafka-specific health indicators</strong>. These improve the reliability of your service by allowing Kubernetes (or any orchestrator) to make informed decisions about your application’s state.</p>
 <p>By verifying both Kafka producer and consumer functionality, your health endpoints more accurately represent the application’s readiness to handle traffic.</p>
 <p>When deploying a Spring Boot service that depends on Kafka, avoid relying solely on broker connectivity checks; instead, implement a robust custom health indicator.</p>
+<hr>
+<p>You can find the full working sample on <a href="https://github.com/rahul-konduru/blog-samples/tree/master/kafka-health-indicator" target="_blank" rel="noopener noreffer "><code>GitHub</code></a>.</p>
 <p><strong>Let’s get coding! 🚀</strong></p>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">

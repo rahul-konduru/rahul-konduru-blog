@@ -191,4 +191,8 @@ By verifying both Kafka producer and consumer functionality, your health endpoin
 
 When deploying a Spring Boot service that depends on Kafka, avoid relying solely on broker connectivity checks; instead, implement a robust custom health indicator.  
 
+---
+
+You can find the full working sample on [`GitHub`](https://github.com/rahul-konduru/blog-samples/tree/master/kafka-health-indicator).
+
 **Let’s get coding! 🚀**
